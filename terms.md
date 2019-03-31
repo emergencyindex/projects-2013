@@ -6,7 +6,7 @@ title: 'Index 2013: Terms'
 wrapperclass: 'index-terms'
 toc: 2013 Terms
 ---
- 
+
 ## 0-9
 
 20th century [049], [519], [523], [531], [643]
@@ -20,7 +20,7 @@ toc: 2013 Terms
 
 Abbott, Tony [433]
 
-Abramovic´ , Marina [323]
+Abramović, Marina [323]
 
 abstraction [185], [263], [469], [607], [649]; in movement, [243]
 
@@ -169,7 +169,7 @@ burlesque [049], [189], [229]
 
 burning [077], [191], [343], [649], [655]
 
-Butoh [075], [083], [145]
+butoh [075], [083], [145]
 
 {: #C .index .sticky-nav }
 ## C
@@ -537,7 +537,7 @@ Hume, David [647]
 
 humor [015], [049], [099], [207], [263], [317], [333], [485], [487], [513], [631], [643], [651]; _see also_ joke
 
-Hundredth Monkey Theory, _also_ Lawrence Blair, Lyrall Watson [435]
+Hundredth Monkey Theory _also_ Lawrence Blair, Lyrall Watson [435]
 
 hurricane [437]; _see also_ destruction
 
