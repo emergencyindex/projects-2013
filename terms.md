@@ -651,7 +651,7 @@ toc: 2013 Terms
 
 **lecture** _also_ <span class="see-also">performance lecture</span> [023], [059], [287], [293], [325], [363], [499], [569], [579], [587]; _see also_ <span class="see-also">artist talk</span>, <span class="see-also">speech</span>
 
-**LGBT** _also_ <span class="see-also">LGBTQ</span>, <span class="see-also">lesbian</span>, gay</span>, <span class="see-also">bisexual</span> [237], [267], [305], [377], [523], [601]; _see also_ <span class="see-also">gender</span>, <span class="see-also">homosexuality</span>, <span class="see-also">transgender</span>
+**LGBT** _also_ <span class="see-also">LGBTQ</span>, <span class="see-also">lesbian</span>, <span class="see-also">gay</span>, <span class="see-also">bisexual</span> [237], [267], [305], [377], [523], [601]; _see also_ <span class="see-also">gender</span>, <span class="see-also">homosexuality</span>, <span class="see-also">transgender</span>
 
 **library** [083], [219], [415], [495]
 
@@ -932,7 +932,7 @@ toc: 2013 Terms
 
 **queer** [115], [141], [183], [243], [267], [333], [337], [391], [403], [405], [523], [533], [543]; queer studies [071]
 
-**race** _also_ <span class="see-also">racism</span> [261], [263], [389], [417], [471], [503], [517], [633], [175]; white [175], [261], [299], [347], [503], [515], [539], [585]; white privilege [101], [195], [513]</span></span>, <span class="see-also"><span class="see-also">[567]; black (_also_ <span class="see-also">African American</span>) [115], [175], [361], [389], [503], [515], [585], [653]; people of color [299], [499]
+**race** _also_ <span class="see-also">racism</span> [261], [263], [389], [417], [471], [503], [517], [633], [175]; white [175], [261], [299], [347], [503], [515], [539], [585]; white privilege [101], [195], [513], [567]; black (_also_ <span class="see-also">African American</span>) [115], [175], [361], [389], [503], [515], [585], [653]; people of color [299], [499]
 
 {: #R .index .sticky-nav }
 ## R
